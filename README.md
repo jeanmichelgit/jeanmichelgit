@@ -5,19 +5,19 @@
 ## About Me
 
 - 🔭 Focused on solving problems with maintanable solutions and creating efficient, scalable systems
-- 🌱 I’m currently learning AWS, n8n
-- 🎯 Goal: Becoming a **Data engineer**
+- 🌱 Learning AWS and n8n — still surviving my cloud experiments
+- 🎯 Goal: Becoming a **Data Engineer** (pipeline whisperer in training)
 
-## 📫 Contact Me
+## Contact Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
-📧 jean-michel.lam@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
+- 📧 jean-michel.lam@outlook.com
 
 ---
 
 ## Projects
 
-### [AI Support Automation](../ai-support-automation)
+### [AI Support Automation](./ai-support-automation)
 > *n8n + OpenAI + Slack + Airtable automation*
 
 An AI-powered workflow that:
