@@ -1,4 +1,4 @@
-## 🧠 Skills
+## Skills
 
 | Area | Tools / Tech |
 |------|---------------|
