@@ -4,9 +4,9 @@
 
 ## About Me
 
+- ⚔️ Fighting bugs
 - Focused on solving problems with maintanable, efficient and scalable systems
-- Actually working as a **no-code/low-code developper**
-- Mission: Appear competent while automating everything behind the scenes
+- Currently working as a **no-code / low-code developer**
 - See my projects and skills:
   -  [My projects →](./projects.md)
   -  [My skills →](./skills.md)
