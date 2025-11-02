@@ -30,14 +30,16 @@ An AI-powered workflow that:
 
 ## 🧠 Skills
 
+Modify that table 
 | Area | Tools / Tech |
 |------|---------------|
-| **Development & No-Code** | Python<br>Bubble<br>Visual Studio Code<br>Cursor<br>Lovable (AI front-end generator) |
+| **Programming** | Python<br>|
+| **No-Code** | Bubble |
 | **Databases** | PostgreSQL<br>pgAdmin<br>SQL<br>NoSQL<br>Prometheus (TSDB)<br>Victoria Metrics (TSDB) |
 | **Cloud** | AWS (Lambda, API Gateway, RDS, S3, DynamoDB, Secret Manager, Amplify, IAM & Roles, CloudWatch) |
 | **Automation & Orchestration** | n8n |
 | **Data Visualization** | Flask<br>Plotly<br>Matplotlib / Pyplot<br>Google Charts<br>Chart.js |
-| **APIs & Integrations** | REST APIs<br>Webhooks<br>JSON<br>Airtable<br>Notion |
+| **APIs & Integrations** | REST APIs<br>Webhooks<br>JSON<br>Airtable|
 | **Collaboration & Organization** | Slack<br>Teams<br>Plane<br>Mattermost<br>Draw.io<br>Airtable<br>Asana |
 | **Languages** | English (C1)<br>French (native) |
 | **Other** | Bash / Terminal<br>Git<br>GitHub |
