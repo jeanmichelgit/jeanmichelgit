@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Jean-Michel
+# 🎃 Hi, I'm Jean-Michel
 
 ---
 
 ## About Me
 
-- 🔭 Focused on solving problems with maintanable solutions and creating efficient, scalable systems
-- 🌱 Learning AWS (still surviving my cloud experiments)
-- 🎯 Mission: Appear competent while automating everything behind the scenes
+- Focused on solving problems with maintanable solutions and creating efficient, scalable systems
+- Learning AWS (still surviving my cloud experiments)
+- Mission: Appear competent while automating everything behind the scenes
 
 ## Contact Me
 
@@ -39,5 +39,5 @@ An AI-powered workflow that:
 | **Data Visualization** | Flask<br>Plotly<br>Matplotlib / Pyplot<br>Google Charts<br>Chart.js |
 | **APIs & Integrations** | REST APIs<br>Webhooks<br>JSON<br>Airtable<br>Notion |
 | **Collaboration & Organization** | Slack<br>Teams<br>Plane<br>Mattermost<br>Draw.io<br>Airtable<br>Asana |
-| **Other Tools** | Bash / Terminal<br>Git<br>GitHub |
 | **Languages** | English (C1)<br>French (native) |
+| **Other** | Bash / Terminal<br>Git<br>GitHub |
