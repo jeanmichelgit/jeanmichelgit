@@ -5,8 +5,8 @@
 ## About Me
 
 - 🔭 Focused on solving problems with maintanable solutions and creating efficient, scalable systems
-- 🌱 Learning AWS and n8n (still surviving my cloud experiments)
-- 🎯 Goal: Becoming a Data Engineer
+- 🌱 Learning AWS (still surviving my cloud experiments)
+- 🎯 Mission: Appear competent while automating everything behind the scenes
 
 ## Contact Me
 
