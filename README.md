@@ -4,20 +4,20 @@
 
 ## About Me
 
-- Focused on solving problems with maintanable solutions and creating efficient, scalable systems
-- Learning AWS (still surviving my cloud experiments)
+- Focused on solving problems with maintanable, efficient and scalable systems
+- Surviving my cloud experiments
 - Mission: Appear competent while automating everything behind the scenes
 
 ## Contact Me
 
-- [LinkedIn →](https://www.linkedin.com/in/jean-michel-lam/)  
+- 💼[LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
 - 📧 jean-michel.lam@outlook.com
 
 ---
 
 ## Projects
 
-### [AI Support Automation](./ai-support-automation)
+### [AI Support Automation →](./ai-support-automation)
 > *n8n + OpenAI + Slack + Airtable automation*
 
 An AI-powered workflow that:
