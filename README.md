@@ -6,7 +6,6 @@
 
 - Focused on solving problems with maintanable, efficient and scalable systems
 - Actually working as a **no-code/low-code developper**
-- Surviving my cloud experiments
 - Mission: Appear competent while automating everything behind the scenes
 - See my projects and skills:
   -  [My projects →](./projects.md)
