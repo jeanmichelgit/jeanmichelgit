@@ -5,8 +5,8 @@
 ## About Me
 
 - 🔭 Focused on solving problems with maintanable solutions and creating efficient, scalable systems
-- 🌱 Learning AWS and n8n — still surviving my cloud experiments
-- 🎯 Goal: Becoming a **Data Engineer** (pipeline whisperer in training)
+- 🌱 Learning AWS and n8n (still surviving my cloud experiments)
+- 🎯 Goal: Becoming a Data Engineer
 
 ## Contact Me
 
