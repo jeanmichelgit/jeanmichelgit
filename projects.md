@@ -1,6 +1,6 @@
 ## Projects
 
-### [AI Support Automation →](./ai-support-automation)
+### [AI Support Automation →](../ai-support-automation)
 > *n8n + OpenAI + Slack + Airtable automation*
 
 An AI-powered workflow that:
