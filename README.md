@@ -10,6 +10,13 @@
 
 ---
 
+## 📫 Contact Me
+
+💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-michel-lam/))  
+📧 jean-michel.lam@outlook.com
+
+---
+
 ## Projects
 
 ### [AI Support Automation](../ai-support-automation)
@@ -38,11 +45,3 @@ An AI-powered workflow that:
 | **Collaboration & Organization** | Slack<br>Teams<br>Plane<br>Mattermost<br>Draw.io<br>Airtable<br>Asana |
 | **Other Tools** | Bash / Terminal<br>Git<br>GitHub |
 | **Languages** | English (C1)<br>French (native) |
-
-
----
-
-## 📫 Contact Me
-
-💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-michel-lam/))  
-📧 jean-michel.lam@outlook.com
