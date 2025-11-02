@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🔭 I currently work as a **no-code / low-code developer**
+- 🔭 Focused on solving problems with maintanable solutions and creating efficient, scalable systems
 - 🌱 I’m currently learning AWS, n8n
-- 🎯 Goal: Becoming a Data engineer
+- 🎯 Goal: Becoming a **Data engineer**
 
 ---
 
@@ -29,15 +29,16 @@ An AI-powered workflow that:
 
 | Area | Tools / Tech |
 |------|---------------|
-| **Development & No-Code** | Python, Bubble, Visual Studio Code, Cursor, Lovable (AI front-end generator) |
-| **Databases** | PostgreSQL, pgAdmin, SQL, NoSQL, Prometheus (TSDB), Victoria Metrics (TSDB) |
-| **Cloud & DevOps** | AWS (Lambda, API Gateway, RDS, S3, DynamoDB, Secret Manager, Amplify, IAM & Roles, CloudWatch) |
+| **Development & No-Code** | Python<br>Bubble<br>Visual Studio Code<br>Cursor<br>Lovable (AI front-end generator) |
+| **Databases** | PostgreSQL<br>pgAdmin<br>SQL<br>NoSQL<br>Prometheus (TSDB)<br>Victoria Metrics (TSDB) |
+| **Cloud** | AWS (Lambda, API Gateway, RDS, S3, DynamoDB, Secret Manager, Amplify, IAM & Roles, CloudWatch) |
 | **Automation & Orchestration** | n8n |
-| **Data Visualization** | Flask, Plotly, Matplotlib/Pyplot, Google Charts, Chart.js |
-| **APIs & Integrations** | REST APIs, Webhooks, JSON, Airtable, Notion |
-| **Collaboration & Organization** | Slack, Teams, Plane, Mattermost, Draw.io, Airtable, Asana |
-| **Other Tools** | Bash / Terminal, Git, GitHub |
-| **Languages** | English (C1), French (native) |
+| **Data Visualization** | Flask<br>Plotly<br>Matplotlib / Pyplot<br>Google Charts<br>Chart.js |
+| **APIs & Integrations** | REST APIs<br>Webhooks<br>JSON<br>Airtable<br>Notion |
+| **Collaboration & Organization** | Slack<br>Teams<br>Plane<br>Mattermost<br>Draw.io<br>Airtable<br>Asana |
+| **Other Tools** | Bash / Terminal<br>Git<br>GitHub |
+| **Languages** | English (C1)<br>French (native) |
+
 
 ---
 
