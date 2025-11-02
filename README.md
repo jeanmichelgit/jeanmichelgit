@@ -8,12 +8,9 @@
 - 🌱 I’m currently learning AWS, n8n
 - 🎯 Goal: Becoming a **Data engineer**
 
----
-
 ## 📫 Contact Me
 
-💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-michel-lam/))  
-[LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
+💼 [LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
 📧 jean-michel.lam@outlook.com
 
 ---
@@ -27,9 +24,7 @@ An AI-powered workflow that:
 - Receives user messages via Webhook  
 - Classifies and summarizes them using OpenAI  
 - Stores the data in Airtable  
-- Sends a summary to a Slack channel  
-
-**[View project →](../ai-support-automation)**
+- Sends a summary to a Slack channel 
 
 ---
 
