@@ -13,6 +13,7 @@
 ## 📫 Contact Me
 
 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jean-michel-lam/))  
+[LinkedIn](https://www.linkedin.com/in/jean-michel-lam/)  
 📧 jean-michel.lam@outlook.com
 
 ---
