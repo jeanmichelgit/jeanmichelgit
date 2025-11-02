@@ -21,8 +21,6 @@ An AI-powered workflow that:
 - Stores the data in Airtable  
 - Sends a summary to a Slack channel  
 
-**Skills:** n8n, REST APIs, JSON, OpenAI, Automation Logic  
-**Status:** In progress 🚧  
 **[View project →](../ai-support-automation)**
 
 ---
