@@ -7,7 +7,7 @@
 - Focused on solving problems with maintanable, efficient and scalable systems
 - Surviving my cloud experiments
 - See my projects and skills:
-  -  [My projects →](./projects)
+  -  [→ My projects →](./projects)
   -  [My skills →](./skills)
 
 ## Contact Me
