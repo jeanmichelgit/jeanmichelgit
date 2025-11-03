@@ -1,4 +1,4 @@
-# 🎃 Hi, I'm Jean-Michel
+# 👋 Hi, I'm Jean-Michel
 
 ---
 
